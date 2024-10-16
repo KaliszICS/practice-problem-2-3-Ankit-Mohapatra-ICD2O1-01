@@ -20,7 +20,15 @@ def q2():
     print("(no output for zero)")
   else :
     print(f"{num} is negative")
+
 def q3(): 
+   nums = float(input("Input a number: "))
+   numbs = float(input("Input a number: "))
+   nuambs = float(input("Input a number: "))
+if nums == numbs == nuambs:
+      print("Equilateral")
+elif nums == numbs != nuambs:
+   
  
 
 
